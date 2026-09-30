@@ -47,7 +47,7 @@ Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Go
 
 Explora mis proyectos con emulador de terminal interactiva (**Mileidys CLI**), canvas ambiental de partículas, filtrado instantáneo por tecnologías y casos de estudio detallados:
 
-👉 **[Ver Portafolio en Vivo](https://mileidys10.github.io/portafolio/)** *(o en Render)*
+👉 **[Ver Portafolio en Vivo](https://mileidys10.github.io/portafolio/)** 
 
 ---
 
