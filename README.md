@@ -5,9 +5,9 @@
 
 ---
 
-Especializada en el diseño y construcción de **aplicaciones móviles híbridas de alta reactividad** (`Ionic` / `Angular` / `Capacitor`), **microservicios empresariales transaccionales** (`Spring Boot 3` / `Java 17` / `JWT` / `PostgreSQL`), **plataformas interactivas asistidas por Inteligencia Artificial** (`FastAPI` / `Gemini API` / `Pydantic`) y **sistemas Local-First PWA** con persistencia sin conexión (`IndexedDB` / `Dexie.js`).
+Especializada en el diseño y construcción de **aplicaciones móviles híbridas de alta reactividad** (`Ionic` / `Angular` / `Capacitor`), **microservicios empresariales transaccionales** (`Spring Boot 3` / `Java 17` / `JWT` / `PostgreSQL`), **plataformas interactivas asistidas por Inteligencia Artificial** (`FastAPI` / `Gemini API` / `Pydantic`), **sistemas Local-First PWA** con persistencia sin conexión (`IndexedDB` / `Dexie.js`) y **soluciones biométricas con visión artificial en el borde** (`YOLOv8-Pose` / `MediaPipe`).
 
-Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Google Cloud OKF (Open Knowledge Format) v0.2**: código tipado estricto, cero marcadores de posición (*no placeholders*), pruebas automatizadas y desacoplamiento estructural.
+Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Google Cloud OKF (Open Knowledge Format) v0.2**: código tipado estricto, cero marcadores de posición (*no placeholders*), suites de pruebas automatizadas y desacoplamiento estructural.
 
 ---
 
@@ -20,13 +20,13 @@ Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Go
 `Angular (v17/v18)` • `Ionic Framework` • `Capacitor Android Native` • `Dexie.js (IndexedDB Local-First)` • `TypeScript` • `Vanilla Modern JS (ES6+)` • `HTML5 Semántico` • `CSS3 Glassmorphism & Quiet Luxury`
 
 ### 🧠 Inteligencia Artificial, Visión & Automatización
-`Google Gemini API (Interactions & Function Calling)` • `MediaPipe Tasks (Biomecánica & Pose)` • `YOLOv8-Pose Edge` • `Pygame-CE` • `OpenCV` • `ReportLab PDF Engine` • `Telegram Bot API`
+`Google Gemini API (Interactions & Function Calling)` • `MediaPipe Tasks (Biomecánica & Pose)` • `YOLOv8-Pose Edge` • `Pygame-CE` • `OpenCV` • `ReportLab PDF Engine` • `Streamlit Medical UI` • `Telegram Bot API`
 
 ### 🗄️ Bases de Datos & Almacenamiento
 `PostgreSQL` • `Supabase (Auth, Database, Storage, Realtime)` • `IndexedDB (Cliente Offline)` • `SQLite ACID` • `Docker Compose`
 
 ### 🛡️ Calidad de Software, Testing & DevOps
-`Unittest & Pytest` • `Auditoría ITGC & Seguridad ISO 27001` • `Git & GitHub Flow` • `Docker & Contenedores` • `Firebase Hosting` • `Render Cloud` • `Google Cloud OKF v0.2`
+`Unittest & Pytest` • `Auditoría ITGC & Seguridad ISO 27001` • `Git & GitHub Flow` • `Docker & Contenedores` • `Firebase Hosting` • `Render Cloud` • `GitHub Pages` • `Google Cloud OKF v0.2`
 
 ---
 
@@ -39,6 +39,9 @@ Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Go
 | **DevCards AI** | Plataforma de aprendizaje gamificada para ingenieros de software con 284 tarjetas técnicas en 10 materias, quizzes interactivos con feedback en tiempo real y motor dual de IA (Gemini API + generador offline). | **EdTech & AI Engine**<br>Python 3.12 • FastAPI • Google Gemini • Pydantic v2 • JavaScript ES6+ | [📂 Ver Código](https://github.com/Mileidys10/devcards_ai) |
 | **CinemaStellar** | Portal multimedia de cartelera cinematográfica, mapa de butacas reactivo en SVG con estados en tiempo real, confitería y pasarela de pago con simulador de tarjeta 3D y emisión de boletos con código QR. | **Web SPA & Media**<br>HTML5 • CSS3 Responsive • JavaScript ES6+ • SVG Interactivo • LocalStorage | [📂 Ver Código](https://github.com/Mileidys10/CINEMASTELLAR) |
 | **MindDump** | Capturador cognitivo personal y notas de voz local-first con PWA, IndexedDB (Dexie.js), sincronización a la nube, reproductor de formas de onda de audio y diseño estético *Quiet Luxury* en modo oscuro. | **PWA & Local-First**<br>Angular • Ionic • Dexie.js • IndexedDB • PWA Service Worker • Firebase Hosting | [📂 Ver Código](https://github.com/Mileidys10/minddump) |
+| **VideoGame Pose Combat** | Videojuego multijugador de combate en tiempo real controlado por visión artificial, con estimación de poses biomecánicas a 60 FPS, choque de rayos láser (Beam Struggle) y audio procedimental. | **Computer Vision & Gaming**<br>Python • YOLOv8-Pose • MediaPipe • Pygame-CE • OpenCV | [📂 Ver Código](https://github.com/Mileidys10/videogame_pose) |
+| **Telegram ERP Agent** | Agente operativo en Telegram para gestión de inventarios en tiempo real, auditoría transaccional de Kardex, control de acceso RBAC y generación instantánea de reportes ejecutivos en PDF. | **AI & Enterprise Automation**<br>Python • SQLAlchemy • Telegram Bot API • Google GenAI • ReportLab | [📂 Ver Código](https://github.com/Mileidys10/telegram_erp_agent) |
+| **Agente Clínico de Enfermería** | Sistema asistencial de valoración clínica y triage asistido por IA multimodal, digitalización de prescripciones manuscritas, extracción estructurada de signos vitales (JSON-LD) y reportes médicos en PDF. | **Medical AI & Clinical Triage**<br>Python • Streamlit • Google Gemini Multimodal • ReportLab • SQLite ACID | [📂 Ver Código](https://github.com/Mileidys10/agente_enfermeria) |
 | **CRUD Usuarios PHP** | Sistema de gestión de identidades y administración de usuarios estructurado bajo patrones de Arquitectura Limpia e inversión de dependencias. | **Arquitectura Hexagonal**<br>PHP 8+ • Composer • Domain / Application / Infrastructure | [📂 Ver Código](https://github.com/Mileidys10/CRUD_USUARIOS_PHP) |
 
 ---
@@ -47,7 +50,7 @@ Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Go
 
 Explora mis proyectos con emulador de terminal interactiva (**Mileidys CLI**), canvas ambiental de partículas, filtrado instantáneo por tecnologías y casos de estudio detallados:
 
-👉 **[Ver Portafolio en Vivo](https://mileidys10.github.io/portafolio/)** 
+👉 **[Ver Portafolio en Vivo (GitHub Pages)](https://mileidys10.github.io/portafolio/)**
 
 ---
 
