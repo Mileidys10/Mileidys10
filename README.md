@@ -7,7 +7,7 @@
 
 Especializada en el diseño y construcción de **aplicaciones móviles híbridas de alta reactividad** (`Ionic` / `Angular` / `Capacitor`), **microservicios empresariales transaccionales** (`Spring Boot 3` / `Java 17` / `JWT` / `PostgreSQL`), **plataformas interactivas asistidas por Inteligencia Artificial** (`FastAPI` / `Gemini API` / `Pydantic`), **sistemas Local-First PWA** con persistencia sin conexión (`IndexedDB` / `Dexie.js`) y **soluciones biométricas con visión artificial en el borde** (`YOLOv8-Pose` / `MediaPipe`).
 
-Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Google Cloud OKF (Open Knowledge Format) v0.2**: código tipado estricto, cero marcadores de posición (*no placeholders*), suites de pruebas automatizadas y desacoplamiento estructural.
+Enfoque de ingeniería basado en estándares rigurosos de arquitectura y mejores prácticas de la industria: desarrollo guiado por calidad, código tipado estricto, cero marcadores de posición (*no placeholders*), suites completas de pruebas automatizadas y desacoplamiento estructural.
 
 ---
 
@@ -26,7 +26,7 @@ Gobernada bajo la doctrina de ingeniería y estándares de arquitectura del **Go
 `PostgreSQL` • `Supabase (Auth, Database, Storage, Realtime)` • `IndexedDB (Cliente Offline)` • `SQLite ACID` • `Docker Compose`
 
 ### 🛡️ Calidad de Software, Testing & DevOps
-`Unittest & Pytest` • `Auditoría ITGC & Seguridad ISO 27001` • `Git & GitHub Flow` • `Docker & Docker Compose (Contenedorización en 1 clic)` • `Firebase Hosting` • `Render Cloud` • `GitHub Pages` • `Google Cloud OKF v0.2`
+`Unittest & Pytest` • `Auditoría ITGC & Seguridad ISO 27001` • `Git & GitHub Flow` • `Docker & Docker Compose (Contenedorización en 1 clic)` • `Firebase Hosting` • `Render Cloud` • `GitHub Pages` • `CI/CD & Clean Architecture`
 
 ---
 
