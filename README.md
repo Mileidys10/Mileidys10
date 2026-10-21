@@ -1,48 +1,49 @@
-# Mileidys Agamez Ospino
+# Mileidys Agámez Ospino
 
-### Ingeniera de Software • Especialista Móvil & Frontend • Arquitecta Fullstack & Soluciones Cloud
-**Cartagena de Indias, Colombia** • Disponible para roles de alto impacto y proyectos globales remotos (Full Time / B2B / Consultoría)
+### Software Engineer • Full Stack & Backend Developer • Mobile & PWA Specialist
+**Cartagena de Indias, Colombia** • Disponible para roles de alto impacto y oportunidades remotas globales (Full Time / B2B)  
+**Inglés Profesional Certificado B2+ (British Council Aptis)** • [agamezmileidys@gmail.com](mailto:agamezmileidys@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mileidys-agamez)
 
 ---
 
-Especializada en el diseño y construcción de **aplicaciones móviles híbridas de alta reactividad** (`Ionic` / `Angular` / `Capacitor`), **microservicios empresariales transaccionales** (`Spring Boot 3` / `Java 17` / `JWT` / `PostgreSQL`), **plataformas interactivas asistidas por Inteligencia Artificial** (`FastAPI` / `Gemini API` / `Pydantic`), **sistemas Local-First PWA** con persistencia sin conexión (`IndexedDB` / `Dexie.js`) y **soluciones biométricas con visión artificial en el borde** (`YOLOv8-Pose` / `MediaPipe`).
+Ingeniera de Software enfocada en el diseño y construcción de **sistemas backend empresariales escalables** (`Java 21` / `Spring Boot 3` / `PostgreSQL` / `JWT` / `Docker`), **aplicaciones web y móviles reactivas de alto rendimiento** (`Angular 20` / `Ionic 8` / `TypeScript` / `Capacitor`), **soluciones asistidas por Inteligencia Artificial** (`FastAPI` / `Google Gemini API` / `Pydantic`) y **sistemas Local-First PWA** con persistencia sin conexión (`IndexedDB` / `Dexie.js`).
 
-Enfoque de ingeniería basado en estándares rigurosos de arquitectura y mejores prácticas de la industria: desarrollo guiado por calidad, código tipado estricto, cero marcadores de posición (*no placeholders*), suites completas de pruebas automatizadas y desacoplamiento estructural.
+Enfoque de ingeniería basado en estándares rigurosos: **Clean Architecture & DDD**, código tipado estricto, cero marcadores de posición (*no placeholders*), suites de pruebas automatizadas y contenedorización unificada con Docker en 1 clic.
 
 ---
 
 ## 🛠️ Stack Tecnológico & Herramientas de Ingeniería
 
 ### ☕ Backend, Microservicios & Arquitectura
-`Java 17` • `Spring Boot 3` • `Spring Security 6 (JWT Stateless)` • `Spring Data JPA` • `FastAPI (Python 3.12)` • `Pydantic v2` • `SQLAlchemy` • `Thymeleaf HTML Emails` • `Clean Architecture & DDD`
+`Java 17/21` • `Spring Boot 3` • `Spring Security 6 (JWT Stateless)` • `Spring Data JPA` • `Hibernate` • `FastAPI (Python 3.12)` • `Pydantic v2` • `SQLAlchemy` • `Thymeleaf HTML Emails` • `Clean Architecture & DDD`
 
 ### 📱 Frontend, Móvil & PWA
-`Angular (v17/v18)` • `Ionic Framework` • `Capacitor Android Native` • `Dexie.js (IndexedDB Local-First)` • `TypeScript` • `Vanilla Modern JS (ES6+)` • `HTML5 Semántico` • `CSS3 Glassmorphism & Quiet Luxury`
+`Angular 20` • `Ionic 8` • `Capacitor Android Native` • `TypeScript` • `Dexie.js (IndexedDB Local-First)` • `Vanilla Modern JS (ES6+)` • `HTML5 Semántico` • `CSS3 / Quiet Luxury Design`
 
-### 🧠 Inteligencia Artificial, Visión & Automatización
+### 🤖 Inteligencia Artificial & Automatización
 `Google Gemini API (Interactions & Function Calling)` • `MediaPipe Tasks (Biomecánica & Pose)` • `YOLOv8-Pose Edge` • `Pygame-CE` • `OpenCV` • `ReportLab PDF Engine` • `Streamlit Medical UI` • `Telegram Bot API`
 
 ### 🗄️ Bases de Datos & Almacenamiento
-`PostgreSQL` • `Supabase (Auth, Database, Storage, Realtime)` • `IndexedDB (Cliente Offline)` • `SQLite ACID` • `Docker Compose`
+`PostgreSQL 16` • `Supabase (Auth, Database, Storage, Realtime)` • `IndexedDB (Cliente Offline)` • `SQLite ACID` • `H2 Database`
 
-### 🛡️ Calidad de Software, Testing & DevOps
-`Unittest & Pytest` • `Auditoría ITGC & Seguridad ISO 27001` • `Git & GitHub Flow` • `Docker & Docker Compose (Contenedorización en 1 clic)` • `Firebase Hosting` • `Render Cloud` • `GitHub Pages` • `CI/CD & Clean Architecture`
+### 🚀 Calidad de Software, Testing & DevOps
+`JUnit 5` • `Unittest & Pytest` • `Git & GitHub Flow` • `Docker & Docker Compose (Contenedorización en 1 clic)` • `Firebase Hosting` • `Vercel Cloud` • `GitHub Pages` • `CI/CD & Clean Code`
 
 ---
 
-## 🚀 Vitrina de Soluciones y Proyectos de Ingeniería
+## 🏆 Vitrina de Proyectos de Ingeniería Destacados
 
-| Proyecto | Descripción Técnica de Ingeniería | Arquitectura & Tecnologías | Repositorio |
+| Proyecto | Descripción Técnica de Ingeniería | Arquitectura & Tecnologías | Repositorio & Demo |
 | :--- | :--- | :--- | :---: |
-| **TinderApp Mobile** | Aplicación móvil reactiva de citas y networking con física táctil de tarjetas swipeable a 60 FPS, modal festivo de match, chat interactivo en tiempo real y optimización de imágenes en cliente. | **Frontend Móvil Híbrido**<br>Ionic • Angular • TypeScript • Capacitor Android • Supabase Realtime | [📂 Ver Código](https://github.com/Mileidys10/TinderApp) |
-| **Aeterna Perfumes** | Plataforma e-commerce empresarial de fragancias exclusivas con seguridad stateless basada en JWT, control de acceso por roles (RBAC), envío transaccional de correos HTML y contenedorización unificada. | **Enterprise Fullstack**<br>Java 17 • Spring Boot 3 • Spring Security 6 • PostgreSQL • Docker Compose | [📂 Ver Código](https://github.com/Mileidys10/Tienda-de-Perfumes) |
-| **DevCards AI** | Plataforma de aprendizaje gamificada para ingenieros de software con 284 tarjetas técnicas en 10 materias, quizzes interactivos con feedback en tiempo real y motor dual de IA (Gemini API + generador offline). | **EdTech & AI Engine**<br>Python 3.12 • FastAPI • Docker Compose • Google Gemini • Pydantic v2 | [📂 Ver Código](https://github.com/Mileidys10/devcards_ai) |
-| **CinemaStellar** | Portal multimedia de cartelera cinematográfica, mapa de butacas reactivo en SVG con estados en tiempo real, confitería y pasarela de pago con simulador de tarjeta 3D y emisión de boletos con código QR. | **Web SPA & Media**<br>Nginx Alpine • Docker Compose • HTML5 / CSS3 • JavaScript ES6+ • SVG | [📂 Ver Código](https://github.com/Mileidys10/CINEMASTELLAR) |
-| **MindDump** | Capturador cognitivo personal y notas de voz local-first con PWA, IndexedDB (Dexie.js), sincronización a la nube, reproductor de formas de onda de audio y diseño estético *Quiet Luxury* en modo oscuro. | **PWA & Local-First**<br>Angular • Ionic • Dexie.js • IndexedDB • PWA Service Worker • Firebase Hosting | [📂 Ver Código](https://github.com/Mileidys10/minddump) |
-| **VideoGame Pose Combat** | Videojuego multijugador de combate en tiempo real controlado por visión artificial, con estimación de poses biomecánicas a 60 FPS, choque de rayos láser (Beam Struggle) y audio procedimental. | **Computer Vision & Gaming**<br>Python • Docker Compose • YOLOv8-Pose • MediaPipe • Pygame-CE | [📂 Ver Código](https://github.com/Mileidys10/videogame_pose) |
-| **Telegram ERP Agent** | Agente operativo en Telegram para gestión de inventarios en tiempo real, auditoría transaccional de Kardex, control de acceso RBAC y generación instantánea de reportes ejecutivos en PDF. | **AI & Enterprise Automation**<br>Python • Docker Compose • Telegram Bot API • SQLAlchemy • ReportLab | [📂 Ver Código](https://github.com/Mileidys10/telegram_erp_agent) |
-| **Agente Clínico de Enfermería** | Sistema asistencial de valoración clínica y triage asistido por IA multimodal, digitalización de prescripciones manuscritas, extracción estructurada de signos vitales (JSON-LD) y reportes médicos en PDF. | **Medical AI & Clinical Triage**<br>Python • Docker Compose • Streamlit • Google Gemini • ReportLab | [📂 Ver Código](https://github.com/Mileidys10/agente_enfermeria) |
-| **CRUD Usuarios PHP** | Sistema de gestión de identidades y administración de usuarios estructurado bajo patrones de Arquitectura Limpia e inversión de dependencias. | **Arquitectura Hexagonal**<br>PHP 8+ • Composer • Domain / Application / Infrastructure | [📂 Ver Código](https://github.com/Mileidys10/CRUD_USUARIOS_PHP) |
+| **Aeterna Perfumes (Backend)** | API REST empresarial para e-commerce de fragancias de lujo: autenticación stateless JWT, control RBAC, inventario transaccional, notificaciones HTML por correo y persistencia PostgreSQL. | **Enterprise Backend**<br>Java 21 • Spring Boot 3 • Spring Security 6 • PostgreSQL • Docker Compose | [💻 Ver Backend](https://github.com/Mileidys10/Tienda-de-Perfumes) |
+| **Aeterna Perfumes (Frontend)** | Aplicación web y móvil de comercio electrónico con pirámide olfativa SVG interactiva, Sommelier IA, Grabado Láser, Discovery Box, Layering Studio y estética Quiet Luxury. | **Modern Frontend & PWA**<br>Angular 20 • Ionic 8 • TypeScript • Nginx Alpine • Docker | [📱 Ver Frontend](https://github.com/Mileidys10/Frontend-Perfume) |
+| **DevCards AI** | Plataforma EdTech de repaso espaciado con 1,295 tarjetas técnicas en 10 categorías de computación, quizzes interactivos y motor matemático SM-2 / Leitner. | **EdTech & Algorithm Engine**<br>Python 3.12 • FastAPI • Docker Compose • Google Gemini • SM-2 | [🧠 Ver Código](https://github.com/Mileidys10/devcards_ai)<br>👉 **[Demo en Vivo](https://mileidys10.github.io/devcards_ai/)** |
+| **MindDump** | Capturador cognitivo personal y notas de voz local-first con PWA, IndexedDB (Dexie.js), sincronización a la nube, visualizador de ondas de audio y estética Quiet Luxury. | **PWA & Local-First**<br>Angular 20 • Ionic 8 • Dexie.js • IndexedDB • Firebase Hosting • Docker | [🧠 Ver Código](https://github.com/Mileidys10/minddump)<br>👉 **[App en Vivo](https://minddump-app-agamez.web.app)** |
+| **TinderApp Mobile** | Aplicación móvil reactiva de citas y networking con física táctil de tarjetas swipeable a 60 FPS, modal festivo de match, chat en tiempo real y suite de 16 pruebas automatizadas aprobadas. | **Frontend Móvil Híbrido**<br>Ionic 8 • Angular • TypeScript • Capacitor Android • 16 Tests Passed | [📱 Ver Código](https://github.com/Mileidys10/TinderApp) |
+| **CinemaStellar** | Portal multimedia de cartelera cinematográfica, mapa interactivo de butacas reactivo en SVG con estados en tiempo real, confitería y pasarela de pago con boleto digital imprimible. | **Web SPA & Media**<br>HTML5 / CSS3 • JavaScript ES6+ • SVG Dinámico • Nginx Alpine • Docker | [🎬 Ver Código](https://github.com/Mileidys10/CINEMASTELLAR) |
+| **Telegram ERP Agent** | Agente operativo en Telegram para gestión de inventarios en tiempo real, auditoría transaccional de Kardex, control de acceso RBAC y generación instantánea de reportes ejecutivos en PDF. | **AI & Enterprise Automation**<br>Python • Telegram Bot API • SQLAlchemy • ReportLab PDF | [🤖 Ver Código](https://github.com/Mileidys10/telegram_erp_agent) |
+| **Agente Clínico de Enfermería** | Sistema asistencial de valoración clínica y triage asistido por IA multimodal, digitalización de prescripciones manuscritas, extracción estructurada de signos vitales (JSON-LD) y reportes médicos en PDF. | **Medical AI & Clinical Triage**<br>Python • Streamlit • Google Gemini • JSON-LD • ReportLab | [🩺 Ver Código](https://github.com/Mileidys10/agente_enfermeria) |
+| **VideoGame Pose Combat** | Videojuego multijugador de combate en tiempo real controlado por visión artificial, con estimación de poses biomecánicas a 60 FPS, choque de rayos láser y audio procedimental. | **Computer Vision & Gaming**<br>Python • YOLOv8-Pose • MediaPipe • Pygame-CE • Docker | [🎮 Ver Código](https://github.com/Mileidys10/videogame_pose) |
 
 ---
 
@@ -58,8 +59,9 @@ Explora mis proyectos con emulador de terminal interactiva (**Mileidys CLI**), c
 
 ¿Interesado en desarrollar aplicaciones móviles de alto rendimiento, microservicios empresariales resilientes o plataformas impulsadas por IA?
 
-* **Nombre**: Mileidys Agamez Ospino
-* **Rol**: Ingeniera de Software • Desarrolladora Fullstack & Mobile Specialist
+* **Nombre**: Mileidys Agámez Ospino
+* **Rol**: Software Engineer • Backend & Full Stack Specialist
 * **Correo Electrónico**: [agamezmileidys@gmail.com](mailto:agamezmileidys@gmail.com)
+* **LinkedIn**: [linkedin.com/in/mileidys-agamez](https://www.linkedin.com/in/mileidys-agamez)
 * **GitHub Oficial**: [@Mileidys10](https://github.com/Mileidys10)
-* **Ubicación**: Colombia • Disponible para contratación remota global y proyectos freelance
+* **Ubicación**: Cartagena, Colombia • Disponible para contratación remota global
